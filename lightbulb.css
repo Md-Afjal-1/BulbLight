@@ -1,0 +1,23 @@
+    
+button {
+    padding: 10px;
+}
+
+#btn3 {
+    background-color: green;
+    color: white;
+}
+
+#btn3:focus {
+    background-color: red;
+}
+
+#btn2 {
+    background-color: red;
+    color: white;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+}
